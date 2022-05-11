@@ -1,5 +1,5 @@
 
  [[redirects]]
   from = "/*"
-  to = "/layouts/resume"
+  to = "/index"
   status = 200
